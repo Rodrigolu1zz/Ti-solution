@@ -69,13 +69,12 @@ p{
 }
 .centralizar{    
     text-align: center;
-    width: 36.8%;
+    
     margin: 5rem auto;
 }
 .home-btn{
     background-color: #eaf1ff;
-    width: 45%;
-    height: 5%;
+    
     border-radius: 1.25rem;
     padding: 1rem;
     text-decoration: none;
@@ -99,10 +98,7 @@ p{
     height: 100%;
 }
 .img{
-    
     width: 120%;
     height: 120vh;
     background-size: cover;
-    
-    
 }
